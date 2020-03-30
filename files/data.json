@@ -1,7 +1,7 @@
 [
   {
     "name": "Beedrill"
-    "number" : 015,
+    "number" : "015",
     "height": "10",
     "weight": "29.5 kg",
     "genders" : ["male", "female"],
