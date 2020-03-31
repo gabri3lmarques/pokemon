@@ -1,0 +1,11 @@
+  {
+    "name": "Charmander",
+    "number" : "004",
+    "height": "0.6",
+    "weight": "8.5",
+    "genders" : ["male", "female"],
+    "type": ["fire"],
+    "abilities": ["Blaze", "Powers up Fire-type moves when the Pokémon is in trouble."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1yCLOc_nVyFjBM2GisWfCcjMK_aO4rUsN",
+    "about": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely."
+  }
