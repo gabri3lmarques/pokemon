@@ -78,7 +78,7 @@
   },
   {
     "name": "Wartortle",
-    "number" : "007",
+    "number" : "008",
     "height": "1.0",
     "weight": "22.5",
     "genders" : ["male", "female"],
@@ -89,7 +89,7 @@
   },
   {
     "name": "Blastoise ",
-    "number" : "008",
+    "number" : "009",
     "height": "1.6",
     "weight": "85.5",
     "genders" : ["male", "female"],
