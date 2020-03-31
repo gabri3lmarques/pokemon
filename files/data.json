@@ -133,7 +133,7 @@
   },
   {
     "name": "Weedle",
-    "number" : "012",
+    "number" : "013",
     "height": "0.3",
     "weight": "3.2",
     "genders" : ["male", "female"],
@@ -144,7 +144,7 @@
   },
   {
     "name": "Kakuna",
-    "number" : "013",
+    "number" : "014",
     "height": "0.6",
     "weight": "10.0",
     "genders" : ["male", "female"],
@@ -155,7 +155,7 @@
   },
   {
     "name": "Beedrill",
-    "number" : "013",
+    "number" : "015",
     "height": "1.0",
     "weight": "29.0",
     "genders" : ["male", "female"],
