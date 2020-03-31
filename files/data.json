@@ -64,5 +64,39 @@
     "abilities": ["Blaze", "Powers up Fire-type moves when the Pokémon is in trouble."],
     "sprite": "https://drive.google.com/uc?export=view&id=1pdDrsPg7Lg9bEMOX4UyFIe-mBr2fL4ZW",
     "about": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color."
-  }
+  },
+  {
+    "name": "Squirtle",
+    "number" : "007",
+    "height": "0.5",
+    "weight": "9.0",
+    "genders" : ["male", "female"],
+    "type": "water",
+    "abilities": ["Torrent", "Powers up Water-type moves when the Pokémon is in trouble."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1_LvRGXVBKQqSkm1uze6TOPBIESyqAMxc",
+    "about": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds."
+  },
+  {
+    "name": "Wartortle",
+    "number" : "007",
+    "height": "1.0",
+    "weight": "22.5",
+    "genders" : ["male", "female"],
+    "type": "water",
+    "abilities": ["Torrent", "Powers up Water-type moves when the Pokémon is in trouble."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1Hu-C3fdINZC0vPYcD9hWa8R1DoACPgwA",
+    "about": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler."
+  },
+  {
+    "name": "Blastoise ",
+    "number" : "008",
+    "height": "1.6",
+    "weight": "85.5",
+    "genders" : ["male", "female"],
+    "type": "water",
+    "abilities": ["Torrent", "Powers up Water-type moves when the Pokémon is in trouble."],
+    "sprite": "https://drive.google.com/file/d/1UEIDz9Br2WMOnFV3LQzxUg0RofqD1_3l/view?usp=sharing",
+    "about": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet."
+  },
+
 ]
