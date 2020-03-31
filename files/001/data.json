@@ -1,1 +1,12 @@
 
+  {
+    "name": "Bulbasaur",
+    "number" : "001",
+    "height": "0.7",
+    "weight": "6.9",
+    "genders" : ["male", "female"],
+    "type": ["grass"],
+    "abilities": ["Overgrow", "Powers up Grass-type moves when the Pokémon is in trouble."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1jtJcygx9r6ZFVJu_SLkOCtn-8ZHNbH9X",
+    "about": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger."
+  }
