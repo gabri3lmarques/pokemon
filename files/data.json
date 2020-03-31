@@ -5,7 +5,7 @@
     "height": "0.7",
     "weight": "6.9",
     "genders" : ["male", "female"],
-    "type": "grass",
+    "type": ["grass"],
     "abilities": ["Overgrow", "Powers up Grass-type moves when the Pokémon is in trouble."],
     "sprite": "https://drive.google.com/uc?export=view&id=1jtJcygx9r6ZFVJu_SLkOCtn-8ZHNbH9X",
     "about": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger."
@@ -38,7 +38,7 @@
     "height": "0.6",
     "weight": "8.5",
     "genders" : ["male", "female"],
-    "type": "fire",
+    "type": ["fire"],
     "abilities": ["Blaze", "Powers up Fire-type moves when the Pokémon is in trouble."],
     "sprite": "https://drive.google.com/uc?export=view&id=1yCLOc_nVyFjBM2GisWfCcjMK_aO4rUsN",
     "about": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely."
@@ -49,7 +49,7 @@
     "height": "1.1",
     "weight": "19.0",
     "genders" : ["male", "female"],
-    "type": "fire",
+    "type": ["fire"],
     "abilities": ["Blaze", "Powers up Fire-type moves when the Pokémon is in trouble."],
     "sprite": "https://drive.google.com/uc?export=view&id=1jinBLJUitYMjE_DCzBFGVXKZZO7M6sT_",
     "about": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color."
@@ -60,7 +60,7 @@
     "height": "1.7",
     "weight": "90.5",
     "genders" : ["male", "female"],
-    "type": "fire",
+    "type": ["fire"],
     "abilities": ["Blaze", "Powers up Fire-type moves when the Pokémon is in trouble."],
     "sprite": "https://drive.google.com/uc?export=view&id=1pdDrsPg7Lg9bEMOX4UyFIe-mBr2fL4ZW",
     "about": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color."
@@ -71,7 +71,7 @@
     "height": "0.5",
     "weight": "9.0",
     "genders" : ["male", "female"],
-    "type": "water",
+    "type": ["water"],
     "abilities": ["Torrent", "Powers up Water-type moves when the Pokémon is in trouble."],
     "sprite": "https://drive.google.com/uc?export=view&id=1_LvRGXVBKQqSkm1uze6TOPBIESyqAMxc",
     "about": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds."
@@ -82,20 +82,53 @@
     "height": "1.0",
     "weight": "22.5",
     "genders" : ["male", "female"],
-    "type": "water",
+    "type": ["water"],
     "abilities": ["Torrent", "Powers up Water-type moves when the Pokémon is in trouble."],
     "sprite": "https://drive.google.com/uc?export=view&id=1Hu-C3fdINZC0vPYcD9hWa8R1DoACPgwA",
     "about": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler."
   },
   {
-    "name": "Blastoise ",
+    "name": "Blastoise",
     "number" : "009",
     "height": "1.6",
     "weight": "85.5",
     "genders" : ["male", "female"],
-    "type": "water",
+    "type": ["water"],
     "abilities": ["Torrent", "Powers up Water-type moves when the Pokémon is in trouble."],
     "sprite": "https://drive.google.com/uc?export=view&id=1UEIDz9Br2WMOnFV3LQzxUg0RofqD1_3l",
     "about": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet."
+  },
+  {
+    "name": "Caterpie",
+    "number" : "010",
+    "height": "0.3",
+    "weight": "2.9",
+    "genders" : ["male", "female"],
+    "type": ["bug"],
+    "abilities": ["Shield Dust", "Blocks the additional effects of attacks taken."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1qsYCws28FFFPJocowkjVnco7R-P-kPI0",
+    "about": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
+  },
+  {
+    "name": "Metapod",
+    "number" : "011",
+    "height": "0.7",
+    "weight": "9.9",
+    "genders" : ["male", "female"],
+    "type": ["bug"],
+    "abilities": ["Shed Skin", "The Pokémon may heal its own status conditions."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1j6Msphcs7uKDtugd2u4Rqqq-HpMVAmDv",
+    "about": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
+  },
+    {
+    "name": "Butterfree",
+    "number" : "012",
+    "height": "1.1",
+    "weight": "32.0",
+    "genders" : ["male", "female"],
+    "type": ["bug","flying"],
+    "abilities": ["Shed Skin", "The Pokémon may heal its own status conditions."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1jPjs_zPWm9qtImayyvj42lXIzjFz0UJP",
+    "about": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
   }
 ]
