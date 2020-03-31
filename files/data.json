@@ -1,11 +1,12 @@
 [
   {
-    "name": "Beedrill",
-    "number" : "015",
-    "height": "10",
-    "weight": "29.5 kg",
+    "name": "Bulbasaur",
+    "number" : "01",
+    "height": "0.7",
+    "weight": "6.9",
     "genders" : ["male", "female"],
-    "category": "poison",
-    "Abilities": ["Swarm"]
+    "category": "Seed",
+    "abilities": ["Overgrow", "Powers up Grass-type moves when the Pokémon is in trouble."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1jtJcygx9r6ZFVJu_SLkOCtn-8ZHNbH9X"
   }
 ]
