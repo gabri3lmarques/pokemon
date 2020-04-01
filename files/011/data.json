@@ -1,0 +1,11 @@
+  {
+    "name": "Metapod",
+    "number" : "011",
+    "height": "0.7",
+    "weight": "9.9",
+    "genders" : ["male", "female"],
+    "type": ["bug"],
+    "abilities": ["Shed Skin", "The Pokémon may heal its own status conditions."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1j6Msphcs7uKDtugd2u4Rqqq-HpMVAmDv",
+    "about": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
+  }
