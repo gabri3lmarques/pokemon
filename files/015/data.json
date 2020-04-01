@@ -1,0 +1,11 @@
+  {
+    "name": "Beedrill",
+    "number" : "015",
+    "height": "1.0",
+    "weight": "29.0",
+    "genders" : ["male", "female"],
+    "type": ["bug","poison"],
+    "abilities": ["Swarm", "Powers up Bug-type moves when the Pokémon is in trouble."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1VTjYxttpvAhDap7EyFYqkCdhu2TbkDqG",
+    "about": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm."
+  }
