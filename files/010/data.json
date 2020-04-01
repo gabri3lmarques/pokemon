@@ -1,0 +1,11 @@
+  {
+    "name": "Caterpie",
+    "number" : "010",
+    "height": "0.3",
+    "weight": "2.9",
+    "genders" : ["male", "female"],
+    "type": ["bug"],
+    "abilities": ["Shield Dust", "Blocks the additional effects of attacks taken."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1qsYCws28FFFPJocowkjVnco7R-P-kPI0",
+    "about": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
+  }
