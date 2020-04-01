@@ -1,0 +1,11 @@
+  {
+    "name": "Kakuna",
+    "number" : "014",
+    "height": "0.6",
+    "weight": "10.0",
+    "genders" : ["male", "female"],
+    "type": ["bug","poison"],
+    "abilities": ["Shed Skin", "The Pokémon may heal its own status conditions."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1y7a-f5aIKdGHW1bfkjyDLvVyghQsLDhk",
+    "about": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch."
+  }
