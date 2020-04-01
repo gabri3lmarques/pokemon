@@ -1,0 +1,11 @@
+  {
+    "name": "Weedle",
+    "number" : "013",
+    "height": "0.3",
+    "weight": "3.2",
+    "genders" : ["male", "female"],
+    "type": ["bug","poison"],
+    "abilities": ["Shield Dust", "Blocks the additional effects of attacks taken."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1l8xKdvmx3KiSU4mk3gpMv_9GG5UmPrJc",
+    "about": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
+  }
