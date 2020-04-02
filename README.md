@@ -10,6 +10,7 @@ https://gabri3lmarques.github.io/pokemon/files/001/data.json
 
 essa url retorna o seguinte objeto:
 
+<code>
 {
   "name": "Bulbasaur",
   "number" : "001",
@@ -21,3 +22,4 @@ essa url retorna o seguinte objeto:
   "sprite": "https://drive.google.com/uc?export=view&id=1jtJcygx9r6ZFVJu_SLkOCtn-8ZHNbH9X",
   "about": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger."
 }
+</code>
