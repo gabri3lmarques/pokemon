@@ -1,0 +1,11 @@
+   {
+    "name": "Sandshrew",
+    "number" : "027",
+    "height": "0.6 m",
+    "weight": "12.0 kg",
+    "genders" : ["male", "female"],
+    "type": ["Ground"],
+    "abilities": ["Sand Veil", "Boosts the Pokémon's evasion in a sandstorm."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1Qr8G8Q-GjyYjThDdX1hLN0-oLfuqxiVy",
+    "about": "Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies."
+   }
