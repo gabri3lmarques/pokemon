@@ -1,0 +1,11 @@
+   {
+    "name": "Sandslash",
+    "number" : "028",
+    "height": "1.0 m",
+    "weight": "29.5 kg",
+    "genders" : ["male", "female"],
+    "type": ["Ground"],
+    "abilities": ["Sand Veil", "Boosts the Pokémon's evasion in a sandstorm."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1tFElP8FJdxue-vOpru5Q1m40qbBwRb-C",
+    "about": "Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones."
+   }
