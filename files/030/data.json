@@ -1,14 +1,14 @@
   {
-    "name": "Nidoran♂",
+    "name": "Nidorana",
     "number": "030",
-    "height": "0.5 m",
-    "weight": "9.0 kg",
-    "genders": ["male"],
+    "height": "0.8 m",
+    "weight": "20.0 kg",
+    "genders": ["femle"],
     "type": ["Poison"],
     "abilities": [
       "Rivalry",
       "Deals more damage to Pokémon of the same gender."
     ],
     "sprite": "https://drive.google.com/uc?export=view&id=1_95WxjHRFMgNFaJ-MvRwO3NNoA54CeIW",
-    "about": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice."
+    "about": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others"
   }
