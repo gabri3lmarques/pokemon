@@ -1,0 +1,11 @@
+   {
+    "name": "Raticate",
+    "number" : "020",
+    "height": "0.7 m",
+    "weight": "18.5 kg",
+    "genders" : ["male", "female"],
+    "type": ["normal"],
+    "abilities": ["Run Away", "Enables a sure getaway from wild Pokémon."],
+    "sprite": "https://drive.google.com/uc?export=view&id=1jvVgVjXMjTnkZQFM86qaOmeh3z55CsZT",
+    "about": "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses."
+   }
