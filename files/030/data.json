@@ -4,7 +4,7 @@
     "height": "0.8 m",
     "weight": "20.0 kg",
     "genders": ["femle"],
-    "type": ["Poison"],
+    "type": ["poison"],
     "abilities": [
       "Rivalry",
       "Deals more damage to Pokémon of the same gender."
