@@ -5,7 +5,7 @@
   "weight": "20.0 kg",
   "genders": ["female"],
   "type": ["poison"],
-  "specialAbilitie": [
+  "specialAbility": [
     "Rivalry",
     "Deals more damage to Pokémon of the same gender."
   ],

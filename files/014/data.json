@@ -5,7 +5,7 @@
   "weight": "10.0",
   "genders": ["male", "female"],
   "type": ["bug", "poison"],
-  "specialAbilitie": [
+  "specialAbility": [
     "Shed Skin",
     "The Pokémon may heal its own status conditions."
   ],

@@ -5,7 +5,7 @@
   "weight": "29.0",
   "genders": ["male", "female"],
   "type": ["bug", "poison"],
-  "specialAbilitie": [
+  "specialAbility": [
     "Swarm",
     "Powers up Bug-type moves when the Pokémon is in trouble."
   ],

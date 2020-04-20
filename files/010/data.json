@@ -5,7 +5,7 @@
   "weight": "2.9",
   "genders": ["male", "female"],
   "type": ["bug"],
-  "specialAbilitie": [
+  "specialAbility": [
     "Shield Dust",
     "Blocks the additional effects of attacks taken."
   ],

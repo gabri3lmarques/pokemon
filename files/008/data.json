@@ -5,7 +5,7 @@
   "weight": "22.5",
   "genders": ["male", "female"],
   "type": ["water"],
-  "specialAbilitie": [
+  "specialAbility": [
     "Torrent",
     "Powers up Water-type moves when the Pokémon is in trouble."
   ],

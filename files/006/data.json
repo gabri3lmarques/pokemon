@@ -5,7 +5,7 @@
   "weight": "90.5",
   "genders": ["male", "female"],
   "type": ["fire"],
-  "specialAbilitie": [
+  "specialAbility": [
     "Blaze",
     "Powers up Fire-type moves when the Pokémon is in trouble."
   ],

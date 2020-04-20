@@ -5,7 +5,7 @@
   "weight": "2.0 kg",
   "genders": ["male", "female"],
   "type": ["normal", "flying"],
-  "specialAbilitie": [
+  "specialAbility": [
     "Keen Eye",
     "Prevents other Pokémon from lowering accuracy."
   ],

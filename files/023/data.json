@@ -5,7 +5,7 @@
   "weight": "6.9 kg",
   "genders": ["male", "female"],
   "type": ["poison"],
-  "specialAbilitie": [
+  "specialAbility": [
     "Intimidate",
     "Lowers the opposing Pokémon's Attack stat."
   ],

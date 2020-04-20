@@ -5,7 +5,7 @@
   "weight": "29.5 kg",
   "genders": ["male", "female"],
   "type": ["ground"],
-  "specialAbilitie": [
+  "specialAbility": [
     "Sand Veil",
     "Boosts the Pokémon's evasion in a sandstorm."
   ],

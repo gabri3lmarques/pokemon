@@ -5,7 +5,7 @@
   "weight": "100.0",
   "genders": ["male", "female"],
   "type": ["grass", "poison"],
-  "specialAbilitie": [
+  "specialAbility": [
     "Overgrow",
     "Powers up Grass-type moves when the Pokémon is in trouble."
   ],
