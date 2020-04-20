@@ -1,11 +1,14 @@
-   {
-    "name": "Pidgey",
-    "number" : "016",
-    "height": "0.3",
-    "weight": "1.8",
-    "genders" : ["male", "female"],
-    "type": ["normal","flying"],
-    "abilities": ["Keen Eye", "Prevents other Pokémon from lowering accuracy."],
-    "sprite": "https://drive.google.com/uc?export=view&id=17le61sNfy3Q_n2CuZKx0Bd-tiS_0v7KZ",
-    "about": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings."  
-   }
+{
+  "name": "Pidgey",
+  "number": "016",
+  "height": "0.3",
+  "weight": "1.8",
+  "genders": ["male", "female"],
+  "type": ["normal", "flying"],
+  "specialAbilitie": [
+    "Keen Eye",
+    "Prevents other Pokémon from lowering accuracy."
+  ],
+  "sprite": "https://drive.google.com/uc?export=view&id=17le61sNfy3Q_n2CuZKx0Bd-tiS_0v7KZ",
+  "about": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings."
+}

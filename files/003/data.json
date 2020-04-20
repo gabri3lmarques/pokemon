@@ -1,11 +1,14 @@
-  {
-    "name": "Venusaur",
-    "number" : "003",
-    "height": "2.0",
-    "weight": "100.0",
-    "genders" : ["male", "female"],
-    "type": ["grass", "poison"],
-    "abilities": ["Overgrow", "Powers up Grass-type moves when the Pokémon is in trouble."],
-    "sprite": "https://drive.google.com/uc?export=view&id=1c2yoRFVX0ouEpgXfEzCrVHJeWqoY72tB",
-    "about": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people."
-  }
+{
+  "name": "Venusaur",
+  "number": "003",
+  "height": "2.0",
+  "weight": "100.0",
+  "genders": ["male", "female"],
+  "type": ["grass", "poison"],
+  "specialAbilitie": [
+    "Overgrow",
+    "Powers up Grass-type moves when the Pokémon is in trouble."
+  ],
+  "sprite": "https://drive.google.com/uc?export=view&id=1c2yoRFVX0ouEpgXfEzCrVHJeWqoY72tB",
+  "about": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people."
+}

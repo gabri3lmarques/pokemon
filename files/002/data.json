@@ -1,11 +1,14 @@
-  {
-    "name": "Ivysaur",
-    "number" : "002",
-    "height": "1.0",
-    "weight": "13.0",
-    "genders" : ["male", "female"],
-    "type": ["grass", "poison"],
-    "abilities": ["Overgrow", "Powers up Grass-type moves when the Pokémon is in trouble."],
-    "sprite": "https://drive.google.com/uc?export=view&id=1t1QPX2Kazj4O6mqq742tu8yfH9Rj4378",
-    "about": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon."
-  }
+{
+  "name": "Ivysaur",
+  "number": "002",
+  "height": "1.0",
+  "weight": "13.0",
+  "genders": ["male", "female"],
+  "type": ["grass", "poison"],
+  "specialAbilitie": [
+    "Overgrow",
+    "Powers up Grass-type moves when the Pokémon is in trouble."
+  ],
+  "sprite": "https://drive.google.com/uc?export=view&id=1t1QPX2Kazj4O6mqq742tu8yfH9Rj4378",
+  "about": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon."
+}

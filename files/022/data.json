@@ -1,11 +1,14 @@
-   {
-    "name": "Fearow",
-    "number" : "022",
-    "height": "1.2 m",
-    "weight": "38.0 kg",
-    "genders" : ["male", "female"],
-    "type": ["normal", "flying"],
-    "abilities": ["Keen Eye", "Prevents other Pokémon from lowering accuracy."],
-    "sprite": "https://drive.google.com/uc?export=view&id=1YAhpuaXi1mTGiJdN_-UeAkDiDCdguRJb",
-    "about": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey."
-   }
+{
+  "name": "Fearow",
+  "number": "022",
+  "height": "1.2 m",
+  "weight": "38.0 kg",
+  "genders": ["male", "female"],
+  "type": ["normal", "flying"],
+  "specialAbilitie": [
+    "Keen Eye",
+    "Prevents other Pokémon from lowering accuracy."
+  ],
+  "sprite": "https://drive.google.com/uc?export=view&id=1YAhpuaXi1mTGiJdN_-UeAkDiDCdguRJb",
+  "about": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey."
+}

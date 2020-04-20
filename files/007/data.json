@@ -1,11 +1,14 @@
-  {
-    "name": "Squirtle",
-    "number" : "007",
-    "height": "0.5",
-    "weight": "9.0",
-    "genders" : ["male", "female"],
-    "type": ["water"],
-    "abilities": ["Torrent", "Powers up Water-type moves when the Pokémon is in trouble."],
-    "sprite": "https://drive.google.com/uc?export=view&id=1_LvRGXVBKQqSkm1uze6TOPBIESyqAMxc",
-    "about": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds."
-  }
+{
+  "name": "Squirtle",
+  "number": "007",
+  "height": "0.5",
+  "weight": "9.0",
+  "genders": ["male", "female"],
+  "type": ["water"],
+  "specialAbilitie": [
+    "Torrent",
+    "Powers up Water-type moves when the Pokémon is in trouble."
+  ],
+  "sprite": "https://drive.google.com/uc?export=view&id=1_LvRGXVBKQqSkm1uze6TOPBIESyqAMxc",
+  "about": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds."
+}

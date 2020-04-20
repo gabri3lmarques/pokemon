@@ -1,11 +1,14 @@
-   {
-    "name": "Arbok",
-    "number" : "024",
-    "height": "3.5 m",
-    "weight": "6.5 kg",
-    "genders" : ["male", "female"],
-    "type": ["poison"],
-    "abilities": ["Intimidate", "Lowers the opposing Pokémon's Attack stat."],
-    "sprite": "https://drive.google.com/uc?export=view&id=13XrQAP5jWMG2TnC2uqjMkcsfLhORypHT",
-    "about": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible."
-   }
+{
+  "name": "Arbok",
+  "number": "024",
+  "height": "3.5 m",
+  "weight": "6.5 kg",
+  "genders": ["male", "female"],
+  "type": ["poison"],
+  "specialAbilitie": [
+    "Intimidate",
+    "Lowers the opposing Pokémon's Attack stat."
+  ],
+  "sprite": "https://drive.google.com/uc?export=view&id=13XrQAP5jWMG2TnC2uqjMkcsfLhORypHT",
+  "about": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible."
+}

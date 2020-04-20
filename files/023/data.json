@@ -1,11 +1,14 @@
-   {
-    "name": "Ekans",
-    "number" : "023",
-    "height": "2.0 m",
-    "weight": "6.9 kg",
-    "genders" : ["male", "female"],
-    "type": ["poison"],
-    "abilities": ["Intimidate", "Lowers the opposing Pokémon's Attack stat."],
-    "sprite": "https://drive.google.com/uc?export=view&id=1k3G0fB-YAa_ua3petG9qLq5MjJcBH8vt",
-    "about": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head."
-   }
+{
+  "name": "Ekans",
+  "number": "023",
+  "height": "2.0 m",
+  "weight": "6.9 kg",
+  "genders": ["male", "female"],
+  "type": ["poison"],
+  "specialAbilitie": [
+    "Intimidate",
+    "Lowers the opposing Pokémon's Attack stat."
+  ],
+  "sprite": "https://drive.google.com/uc?export=view&id=1k3G0fB-YAa_ua3petG9qLq5MjJcBH8vt",
+  "about": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head."
+}

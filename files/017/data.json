@@ -1,11 +1,14 @@
-   {
-    "name": "Pidgeotto",
-    "number" : "017",
-    "height": "1.1",
-    "weight": "30.0",
-    "genders" : ["male", "female"],
-    "type": ["normal","flying"],
-    "abilities": ["Keen Eye", "Prevents other Pokémon from lowering accuracy."],
-    "sprite": "https://drive.google.com/uc?export=view&id=1lcv86qkiF-wWWvhKIo27CcXkGVBl9z0Y",
-    "about": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws."
-   }
+{
+  "name": "Pidgeotto",
+  "number": "017",
+  "height": "1.1",
+  "weight": "30.0",
+  "genders": ["male", "female"],
+  "type": ["normal", "flying"],
+  "specialAbilitie": [
+    "Keen Eye",
+    "Prevents other Pokémon from lowering accuracy."
+  ],
+  "sprite": "https://drive.google.com/uc?export=view&id=1lcv86qkiF-wWWvhKIo27CcXkGVBl9z0Y",
+  "about": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws."
+}
