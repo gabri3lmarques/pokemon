@@ -1,8 +1,8 @@
 {
   "name": "Charizard",
   "number": "006",
-  "height": "1.7",
-  "weight": "90.5",
+  "height": "1.7 h",
+  "weight": "90.5 kg",
   "genders": ["male", "female"],
   "type": ["fire"],
   "specialAbility": [
@@ -10,5 +10,5 @@
     "Powers up Fire-type moves when the Pokémon is in trouble."
   ],
   "sprite": "https://drive.google.com/uc?export=view&id=1pdDrsPg7Lg9bEMOX4UyFIe-mBr2fL4ZW",
-  "about": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color."
+  "about": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself."
 }

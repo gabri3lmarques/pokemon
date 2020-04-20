@@ -1,8 +1,8 @@
 {
   "name": "Pidgeot",
   "number": "018",
-  "height": "1.5",
-  "weight": "39.5",
+  "height": "1.5 h",
+  "weight": "39.5 kg",
   "genders": ["male", "female"],
   "type": ["normal", "flying"],
   "specialAbility": [

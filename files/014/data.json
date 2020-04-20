@@ -1,8 +1,8 @@
 {
   "name": "Kakuna",
   "number": "014",
-  "height": "0.6",
-  "weight": "10.0",
+  "height": "0.6 h",
+  "weight": "10.0 kg",
   "genders": ["male", "female"],
   "type": ["bug", "poison"],
   "specialAbility": [

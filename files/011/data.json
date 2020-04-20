@@ -1,8 +1,8 @@
 {
   "name": "Metapod",
   "number": "011",
-  "height": "0.7",
-  "weight": "9.9",
+  "height": "0.7 h",
+  "weight": "9.9 kg",
   "genders": ["male", "female"],
   "type": ["bug"],
   "specialAbility": [
@@ -10,5 +10,5 @@
     "The Pokémon may heal its own status conditions."
   ],
   "sprite": "https://drive.google.com/uc?export=view&id=1j6Msphcs7uKDtugd2u4Rqqq-HpMVAmDv",
-  "about": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
+  "about": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell."
 }

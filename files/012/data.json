@@ -1,11 +1,11 @@
 {
   "name": "Butterfree",
   "number": "012",
-  "height": "1.1",
-  "weight": "32.0",
+  "height": "1.1 h",
+  "weight": "32.0 kg",
   "genders": ["male", "female"],
   "type": ["bug", "flying"],
   "specialAbility": ["Compound Eyes", "Boosts the Pokémon's accuracy."],
   "sprite": "https://drive.google.com/uc?export=view&id=1jPjs_zPWm9qtImayyvj42lXIzjFz0UJP",
-  "about": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
+  "about": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest."
 }

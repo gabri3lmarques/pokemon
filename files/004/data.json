@@ -1,8 +1,8 @@
 {
   "name": "Charmander",
   "number": "004",
-  "height": "0.6",
-  "weight": "8.5",
+  "height": "0.6 h",
+  "weight": "8.5 kg",
   "genders": ["male", "female"],
   "type": ["fire"],
   "specialAbility": [

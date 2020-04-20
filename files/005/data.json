@@ -1,8 +1,8 @@
 {
   "name": "Charmeleon",
   "number": "005",
-  "height": "1.1",
-  "weight": "19.0",
+  "height": "1.1 h",
+  "weight": "19.0 kg",
   "genders": ["male", "female"],
   "type": ["fire"],
   "specialAbility": [

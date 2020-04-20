@@ -1,8 +1,8 @@
 {
   "name": "Wartortle",
   "number": "008",
-  "height": "1.0",
-  "weight": "22.5",
+  "height": "1.0 h",
+  "weight": "22.5 kg",
   "genders": ["male", "female"],
   "type": ["water"],
   "specialAbility": [

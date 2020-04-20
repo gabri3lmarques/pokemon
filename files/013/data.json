@@ -1,8 +1,8 @@
 {
   "name": "Weedle",
   "number": "013",
-  "height": "0.3",
-  "weight": "3.2",
+  "height": "0.3 h",
+  "weight": "3.2 kg",
   "genders": ["male", "female"],
   "type": ["bug", "poison"],
   "specialAbility": [
@@ -10,5 +10,5 @@
     "Blocks the additional effects of attacks taken."
   ],
   "sprite": "https://drive.google.com/uc?export=view&id=1l8xKdvmx3KiSU4mk3gpMv_9GG5UmPrJc",
-  "about": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
+  "about": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose)."
 }

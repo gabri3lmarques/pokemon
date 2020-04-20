@@ -1,8 +1,8 @@
 {
   "name": "Blastoise",
   "number": "009",
-  "height": "1.6",
-  "weight": "85.5",
+  "height": "1.6 h",
+  "weight": "85.5 kg",
   "genders": ["male", "female"],
   "type": ["water"],
   "specialAbility": [

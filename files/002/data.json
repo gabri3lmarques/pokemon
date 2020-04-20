@@ -1,8 +1,8 @@
 {
   "name": "Ivysaur",
   "number": "002",
-  "height": "1.0",
-  "weight": "13.0",
+  "height": "1.0 h",
+  "weight": "13.0 kg",
   "genders": ["male", "female"],
   "type": ["grass", "poison"],
   "specialAbility": [

@@ -1,8 +1,8 @@
 {
   "name": "Squirtle",
   "number": "007",
-  "height": "0.5",
-  "weight": "9.0",
+  "height": "0.5 h",
+  "weight": "9.0 kg",
   "genders": ["male", "female"],
   "type": ["water"],
   "specialAbility": [

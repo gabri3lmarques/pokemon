@@ -1,8 +1,8 @@
 {
   "name": "Venusaur",
   "number": "003",
-  "height": "2.0",
-  "weight": "100.0",
+  "height": "2.0 h",
+  "weight": "100.0 kg",
   "genders": ["male", "female"],
   "type": ["grass", "poison"],
   "specialAbility": [

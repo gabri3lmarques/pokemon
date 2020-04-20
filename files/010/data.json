@@ -1,8 +1,8 @@
 {
   "name": "Caterpie",
   "number": "010",
-  "height": "0.3",
-  "weight": "2.9",
+  "height": "0.3 h",
+  "weight": "2.9 kg",
   "genders": ["male", "female"],
   "type": ["bug"],
   "specialAbility": [
