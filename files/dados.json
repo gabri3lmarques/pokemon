@@ -1,413 +1,122 @@
-[
-  {
-    "name": "Bulbasaur",
-    "number": "001",
-    "height": "0.7 m",
-    "weight": "6.9 kg",
-    "genders": ["male", "female"],
-    "type": ["grass"],
-    "specialAbility": [
-      "Overgrow",
-      "Powers up Grass-type moves when the Pokémon is in trouble."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1jtJcygx9r6ZFVJu_SLkOCtn-8ZHNbH9X",
-    "about": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger."
-  },
-  {
-    "name": "Ivysaur",
-    "number": "002",
-    "height": "1.0 m",
-    "weight": "13.0 kg",
-    "genders": ["male", "female"],
-    "type": ["grass", "poison"],
-    "specialAbility": [
-      "Overgrow",
-      "Powers up Grass-type moves when the Pokémon is in trouble."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1t1QPX2Kazj4O6mqq742tu8yfH9Rj4378",
-    "about": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon."
-  },
-  {
-    "name": "Venusaur",
-    "number": "003",
-    "height": "2.0 m",
-    "weight": "100.0 kg",
-    "genders": ["male", "female"],
-    "type": ["grass", "poison"],
-    "specialAbility": [
-      "Overgrow",
-      "Powers up Grass-type moves when the Pokémon is in trouble."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1c2yoRFVX0ouEpgXfEzCrVHJeWqoY72tB",
-    "about": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people."
-  },
-  {
-    "name": "Charmander",
-    "number": "004",
-    "height": "0.6 m",
-    "weight": "8.5 kg",
-    "genders": ["male", "female"],
-    "type": ["fire"],
-    "specialAbility": [
-      "Blaze",
-      "Powers up Fire-type moves when the Pokémon is in trouble."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1yCLOc_nVyFjBM2GisWfCcjMK_aO4rUsN",
-    "about": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely."
-  },
-  {
-    "name": "Charmeleon",
-    "number": "005",
-    "height": "1.1 m",
-    "weight": "19.0 kg",
-    "genders": ["male", "female"],
-    "type": ["fire"],
-    "specialAbility": [
-      "Blaze",
-      "Powers up Fire-type moves when the Pokémon is in trouble."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1jinBLJUitYMjE_DCzBFGVXKZZO7M6sT_",
-    "about": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color."
-  },
-  {
-    "name": "Charizard",
-    "number": "006",
-    "height": "1.7 m",
-    "weight": "90.5 kg",
-    "genders": ["male", "female"],
-    "type": ["fire"],
-    "specialAbility": [
-      "Blaze",
-      "Powers up Fire-type moves when the Pokémon is in trouble."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1pdDrsPg7Lg9bEMOX4UyFIe-mBr2fL4ZW",
-    "about": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color."
-  },
-  {
-    "name": "Squirtle",
-    "number": "007",
-    "height": "0.5 m",
-    "weight": "9.0 kg",
-    "genders": ["male", "female"],
-    "type": ["water"],
-    "specialAbility": [
-      "Torrent",
-      "Powers up Water-type moves when the Pokémon is in trouble."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1_LvRGXVBKQqSkm1uze6TOPBIESyqAMxc",
-    "about": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds."
-  },
-  {
-    "name": "Wartortle",
-    "number": "008",
-    "height": "1.0 m",
-    "weight": "22.5 kg",
-    "genders": ["male", "female"],
-    "type": ["water"],
-    "specialAbility": [
-      "Torrent",
-      "Powers up Water-type moves when the Pokémon is in trouble."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1Hu-C3fdINZC0vPYcD9hWa8R1DoACPgwA",
-    "about": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler."
-  },
-  {
-    "name": "Blastoise",
-    "number": "009",
-    "height": "1.6 m",
-    "weight": "85.5 kg",
-    "genders": ["male", "female"],
-    "type": ["water"],
-    "specialAbility": [
-      "Torrent",
-      "Powers up Water-type moves when the Pokémon is in trouble."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1UEIDz9Br2WMOnFV3LQzxUg0RofqD1_3l",
-    "about": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet."
-  },
-  {
-    "name": "Caterpie",
-    "number": "010",
-    "height": "0.3 m",
-    "weight": "2.9 kg",
-    "genders": ["male", "female"],
-    "type": ["bug"],
-    "specialAbility": [
-      "Shield Dust",
-      "Blocks the additional effects of attacks taken."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1qsYCws28FFFPJocowkjVnco7R-P-kPI0",
-    "about": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
-  },
-  {
-    "name": "Metapod",
-    "number": "011",
-    "height": "0.7 m",
-    "weight": "9.9 kg",
-    "genders": ["male", "female"],
-    "type": ["bug"],
-    "specialAbility": [
-      "Shed Skin",
-      "The Pokémon may heal its own status conditions."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1j6Msphcs7uKDtugd2u4Rqqq-HpMVAmDv",
-    "about": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
-  },
-  {
-    "name": "Butterfree",
-    "number": "012",
-    "height": "1.1 m",
-    "weight": "32.0 kg",
-    "genders": ["male", "female"],
-    "type": ["bug", "flying"],
-    "specialAbility": ["Compound Eyes", "Boosts the Pokémon's accuracy."],
-    "sprite": "https://drive.google.com/uc?export=view&id=1jPjs_zPWm9qtImayyvj42lXIzjFz0UJP",
-    "about": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
-  },
-  {
-    "name": "Weedle",
-    "number": "013",
-    "height": "0.3 m",
-    "weight": "3.2 kg",
-    "genders": ["male", "female"],
-    "type": ["bug", "poison"],
-    "specialAbility": [
-      "Shield Dust",
-      "Blocks the additional effects of attacks taken."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1l8xKdvmx3KiSU4mk3gpMv_9GG5UmPrJc",
-    "about": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
-  },
-  {
-    "name": "Kakuna",
-    "number": "014",
-    "height": "0.6 m",
-    "weight": "10.0 kg",
-    "genders": ["male", "female"],
-    "type": ["bug", "poison"],
-    "specialAbility": [
-      "Shed Skin",
-      "The Pokémon may heal its own status conditions."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1y7a-f5aIKdGHW1bfkjyDLvVyghQsLDhk",
-    "about": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch."
-  },
-  {
-    "name": "Beedrill",
-    "number": "015",
-    "height": "1.0 m",
-    "weight": "29.0 kg",
-    "genders": ["male", "female"],
-    "type": ["bug", "poison"],
-    "specialAbility": [
-      "Swarm",
-      "Powers up Bug-type moves when the Pokémon is in trouble."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1VTjYxttpvAhDap7EyFYqkCdhu2TbkDqG",
-    "about": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm."
-  },
-  {
-    "name": "Pidgey",
-    "number": "016",
-    "height": "0.3 m",
-    "weight": "1.8 kg",
-    "genders": ["male", "female"],
-    "type": ["normal", "flying"],
-    "specialAbility": [
-      "Keen Eye",
-      "Prevents other Pokémon from lowering accuracy."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=17le61sNfy3Q_n2CuZKx0Bd-tiS_0v7KZ",
-    "about": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings."
-  },
-  {
-    "name": "Pidgeotto",
-    "number": "017",
-    "height": "1.1 m",
-    "weight": "30.0 kg",
-    "genders": ["male", "female"],
-    "type": ["normal", "flying"],
-    "specialAbility": [
-      "Keen Eye",
-      "Prevents other Pokémon from lowering accuracy."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1lcv86qkiF-wWWvhKIo27CcXkGVBl9z0Y",
-    "about": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws."
-  },
-  {
-    "name": "Pidgeot",
-    "number": "018",
-    "height": "1.5 m",
-    "weight": "39.5 kg",
-    "genders": ["male", "female"],
-    "type": ["normal", "flying"],
-    "specialAbility": [
-      "Keen Eye",
-      "Prevents other Pokémon from lowering accuracy."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1LF3fZiNQyTfc-JCjgJRA3AzBP3eKKxR9",
-    "about": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon."
-  },
-  {
-    "name": "Ratata",
-    "number": "019",
-    "height": "0.3 m",
-    "weight": "3.5 kg",
-    "genders": ["male", "female"],
-    "type": ["normal"],
-    "specialAbility": ["Run Away", "Enables a sure getaway from wild Pokémon."],
-    "sprite": "https://drive.google.com/uc?export=view&id=19d_97Rf_2xrgQeSGNZfCafoJ17FXE-6W",
-    "about": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere."
-  },
-  {
-    "name": "Raticate",
-    "number": "020",
-    "height": "0.7 m",
-    "weight": "18.5 kg",
-    "genders": ["male", "female"],
-    "type": ["normal"],
-    "specialAbility": ["Run Away", "Enables a sure getaway from wild Pokémon."],
-    "sprite": "https://drive.google.com/uc?export=view&id=1jvVgVjXMjTnkZQFM86qaOmeh3z55CsZT",
-    "about": "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses."
-  },
-  {
-    "name": "Spearow",
-    "number": "021",
-    "height": "0.3 m",
-    "weight": "2.0 kg",
-    "genders": ["male", "female"],
-    "type": ["normal", "flying"],
-    "specialAbility": [
-      "Keen Eye",
-      "Prevents other Pokémon from lowering accuracy."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1OYZemMxW-LLwtPGH_bqiHnP_BoA5Sjrx",
-    "about": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger."
-  },
-  {
-    "name": "Fearow",
-    "number": "022",
-    "height": "1.2 m",
-    "weight": "38.0 kg",
-    "genders": ["male", "female"],
-    "type": ["normal", "flying"],
-    "specialAbility": [
-      "Keen Eye",
-      "Prevents other Pokémon from lowering accuracy."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1YAhpuaXi1mTGiJdN_-UeAkDiDCdguRJb",
-    "about": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey."
-  },
-  {
-    "name": "Ekans",
-    "number": "023",
-    "height": "2.0 m",
-    "weight": "6.9 kg",
-    "genders": ["male", "female"],
-    "type": ["poison"],
-    "specialAbility": [
-      "Intimidate",
-      "Lowers the opposing Pokémon's Attack stat."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1k3G0fB-YAa_ua3petG9qLq5MjJcBH8vt",
-    "about": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head."
-  },
-  {
-    "name": "Arbok",
-    "number": "024",
-    "height": "3.5 m",
-    "weight": "6.5 kg",
-    "genders": ["male", "female"],
-    "type": ["poison"],
-    "specialAbility": [
-      "Intimidate",
-      "Lowers the opposing Pokémon's Attack stat."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=13XrQAP5jWMG2TnC2uqjMkcsfLhORypHT",
-    "about": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible."
-  },
-  {
-    "name": "Pikachu",
-    "number": "025",
-    "height": "0.4 m",
-    "weight": "6.0 kg",
-    "genders": ["male", "female"],
-    "type": ["eletric"],
-    "specialAbility": [
-      "Static",
-      "Contact with the Pokémon may cause paralysis."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1iSjCTW6q-tQxziYPYOPfsfyy4UqYAkiT",
-    "about": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge."
-  },
-  {
-    "name": "Raichu",
-    "number": "026",
-    "height": "0.8 m",
-    "weight": "30.0 kg",
-    "genders": ["male", "female"],
-    "type": ["eletric"],
-    "specialAbility": [
-      "Static",
-      "Contact with the Pokémon may cause paralysis."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=15Vg2vs9CkvNV_S1wf5ggohT1kPHO75eD",
-    "about": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest."
-  },
-  {
-    "name": "Sandshrew",
-    "number": "027",
-    "height": "0.6 m",
-    "weight": "12.0 kg",
-    "genders": ["male", "female"],
-    "type": ["ground"],
-    "specialAbility": [
-      "Sand Veil",
-      "Boosts the Pokémon's evasion in a sandstorm."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1Qr8G8Q-GjyYjThDdX1hLN0-oLfuqxiVy",
-    "about": "Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies."
-  },
-  {
-    "name": "Sandslash",
-    "number": "028",
-    "height": "1.0 m",
-    "weight": "29.5 kg",
-    "genders": ["male", "female"],
-    "type": ["ground"],
-    "specialAbility": [
-      "Sand Veil",
-      "Boosts the Pokémon's evasion in a sandstorm."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1tFElP8FJdxue-vOpru5Q1m40qbBwRb-C",
-    "about": "Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones."
-  },
-  {
-    "name": "Nidoran♀",
-    "number": "029",
-    "height": "0.4 m",
-    "weight": "7.0 kg",
-    "genders": ["female"],
-    "type": ["poison"],
-    "specialAbility": [
-      "Rivalry",
-      "Deals more damage to Pokémon of the same gender."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1sFSgG3-5lK9WA4-RXCAtx7FElcHUzjpt",
-    "about": "Nidorana has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn."
-  },
-  {
-    "name": "Nidorana",
-    "number": "030",
-    "height": "0.8 m",
-    "weight": "20.0 kg",
-    "genders": ["femle"],
-    "type": ["poison"],
-    "specialAbility": [
-      "Rivalry",
-      "Deals more damage to Pokémon of the same gender."
-    ],
-    "sprite": "https://drive.google.com/uc?export=view&id=1_95WxjHRFMgNFaJ-MvRwO3NNoA54CeIW",
-    "about": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others"
-  }
-]
+{
+  "encomendas": [{
+      "id": 763,
+      "numero": "QWE-67Y",
+      "valor": 312.21,
+      "entregue": false,
+      "data": "2014-12-17T01:08:13Z",
+      "cliente": {
+        "nome": "Corporação Exemplo",
+        "id": 1
+      }
+    },
+
+    {
+      "id": 312,
+      "numero": "QWE-72Y",
+      "valor": 27.00,
+      "entregue": false,
+      "data": "2014-12-14T11:12:43Z",
+      "cliente": {
+        "nome": "Investidores ricos",
+        "id": 2
+      }
+    },
+
+    {
+      "id": 467,
+      "numero": "RTY-42Z",
+      "valor": 1731.99,
+      "entregue": false,
+      "data": "2014-12-12T21:23:23Z",
+      "cliente": {
+        "nome": "Corporação Exemplo",
+        "id": 1
+      }
+    },
+
+    {
+      "id": 985,
+      "numero": "UTR-43Y",
+      "valor": 141.00,
+      "entregue": false,
+      "data": "2014-12-10T09:02:52Z",
+      "cliente": {
+        "nome": "Nitro Digital",
+        "id": 3
+      }
+    },
+
+    {
+      "id": 235,
+      "numero": "UTR-42Y",
+      "valor": 35.00,
+      "entregue": false,
+      "data": "2014-12-10T08:34:45Z",
+      "cliente": {
+        "nome": "Corporação Exemplo",
+        "id": 1
+      }
+    },
+
+    {
+      "id": 406,
+      "numero": "QWE-65Z",
+      "valor": 294.00,
+      "entregue": false,
+      "data": "2014-12-09T12:54:56Z",
+      "cliente": {
+        "nome": "Corporação Exemplo",
+        "id": 1
+      }
+    },
+
+    {
+      "id": 146,
+      "numero": "YODA-67Y",
+      "valor": 1430.00,
+      "entregue": true,
+      "data": "2014-11-21T18:45:49Z",
+      "cliente": {
+        "nome": "Nitro Digital",
+        "id": 3
+      }
+    },
+
+    {
+      "id": 401,
+      "numero": "YODA-83Y",
+      "valor": 120.30,
+      "entregue": true,
+      "data": "2014-11-09T15:54:18Z",
+      "cliente": {
+        "nome": "Investidores ricos",
+        "id": 2
+      }
+    },
+
+    {
+      "id": 125,
+      "numero": "LKS-81Y",
+      "valor": 772.00,
+      "entregue": true,
+      "data": "2014-11-02T19:23:18Z",
+      "cliente": {
+        "nome": "Corporação Exemplo",
+        "id": 1
+      }
+    },
+
+    {
+      "id": 521,
+      "numero": "QWE-12Y",
+      "valor": 42.00,
+      "entregue": true,
+      "data": "2014-10-12T14:27:15Z",
+      "cliente": {
+        "nome": "Nitro Digital",
+        "id": 3
+      }
+    }
+  ]
+}
